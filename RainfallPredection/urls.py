@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from RainfallPredection import views as mainView
+from users import views as mainView
 from users import views as usr
 from admins import views as admns
 
