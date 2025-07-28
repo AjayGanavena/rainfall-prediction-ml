@@ -1,1 +1,6 @@
-pip install django-crispy-forms
+Django>=3.2
+scikit-learn
+pandas
+numpy
+gunicorn
+whitenoise
