@@ -5,3 +5,4 @@ numpy
 gunicorn
 whitenoise
 django-crispy-forms
+requests
