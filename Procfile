@@ -1,1 +1,1 @@
-web: gunicorn RainfallPredection.wsgi
+web: gunicorn RainfallPredection.wsgi:application
