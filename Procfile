@@ -1,2 +1,1 @@
-web: gunicorn RainfallPredection.wsgi:application
-  
+web: bash start.sh
