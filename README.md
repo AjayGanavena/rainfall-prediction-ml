@@ -48,6 +48,12 @@
 
 **---**
 
+## 📸 Screenshots
+
+![Homepage](Output/Homepage.png)
+![Prediction Page](Output/predictingpage.png)
+
+---
 
 
 **## 📦 Setup Instructions**
